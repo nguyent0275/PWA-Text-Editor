@@ -10,7 +10,7 @@ module.exports = () => {
     entry: {
       main: "./src/js/index.js",
       install: "./src/js/install.js",
-      database: "./src/js/databse.js",
+      database: "./src/js/database.js",
       editor: "./src/js/editor.js",
       header: "./src/js/header.js",
     },
@@ -50,7 +50,7 @@ module.exports = () => {
             // add  your src, sizes, and description for any custom splash icon
             src: path.resolve("src/images/logo.png"),
             sizes: [96, 128, 192, 256, 384, 512],
-            destination: path.join("asssets", "icons"),
+            destination: path.join("assets", "icons"),
           },
         ],
       }),
