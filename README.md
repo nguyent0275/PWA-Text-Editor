@@ -5,7 +5,7 @@
 ## Table of Contents
 
 [Description](#description)<br>
-[Installation](#installation)
+[Installation](#installation)<br>
 [User Story](#user-story)<br>
 [Acceptance Criteria](#acceptance-criteria)<br>
 [Questions](#questions)<br>
